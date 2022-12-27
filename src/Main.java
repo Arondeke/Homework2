@@ -80,8 +80,7 @@ public class Main {
 
         var allPersonsMore = allPersons + 94;
         var hoursWorkPersonMore = allPersonsMore * 8;
-        System.out.println("Если в компании работает " + allPersonsMore + " человек, " +
-                "то всего " + hoursWorkPersonMore + " часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает " + allPersonsMore + " человек, " + "то всего " + hoursWorkPersonMore + " часов работы может быть поделено между сотрудниками");
 
     }
 }
